@@ -11,6 +11,18 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Optivem.Kata.Calculator", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Optivem.Kata.Calculator.Test", "test\Optivem.Kata.Calculator.Test\Optivem.Kata.Calculator.Test.csproj", "{C0F413AB-FCAB-49B0-A831-FD4F11B744FF}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{76C25C36-63CD-482A-863E-FDA49F137AD8}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".github", ".github", "{0485AFA8-ADD4-478E-B8FD-D18F11F66E84}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "workflows", "workflows", "{6EA334C7-7830-4A88-B8F1-D8FC80CD4C51}"
+	ProjectSection(SolutionItems) = preProject
+		.github\workflows\ci.yaml = .github\workflows\ci.yaml
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -32,6 +44,8 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{FD652A0B-97AA-4E85-918A-662E822036D1} = {C1AD08D0-440D-4DA9-9032-DCFAB4874BF9}
 		{C0F413AB-FCAB-49B0-A831-FD4F11B744FF} = {161AB26A-61B2-423D-A564-C1F405D713A2}
+		{0485AFA8-ADD4-478E-B8FD-D18F11F66E84} = {76C25C36-63CD-482A-863E-FDA49F137AD8}
+		{6EA334C7-7830-4A88-B8F1-D8FC80CD4C51} = {0485AFA8-ADD4-478E-B8FD-D18F11F66E84}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {1A670F7E-010B-4804-B197-266D412223D9}
