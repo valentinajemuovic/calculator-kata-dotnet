@@ -7,7 +7,6 @@ namespace Optivem.Kata.Calculator.Test
         [Fact]
         public void Test1()
         {
-
         }
     }
 }
