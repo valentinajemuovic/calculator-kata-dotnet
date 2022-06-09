@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32407.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Optivem.Kata.Calculator", "Optivem.Kata.Calculator\Optivem.Kata.Calculator.csproj", "{B209AEC0-2576-47E6-B422-91F97643709A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Optivem.Kata.Calculator.Test", "Optivem.Kata.Calculator.Test\Optivem.Kata.Calculator.Test.csproj", "{139F43CE-7B5F-4F93-BAA4-8C0ABDC134EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B209AEC0-2576-47E6-B422-91F97643709A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B209AEC0-2576-47E6-B422-91F97643709A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B209AEC0-2576-47E6-B422-91F97643709A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B209AEC0-2576-47E6-B422-91F97643709A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{139F43CE-7B5F-4F93-BAA4-8C0ABDC134EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{139F43CE-7B5F-4F93-BAA4-8C0ABDC134EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{139F43CE-7B5F-4F93-BAA4-8C0ABDC134EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{139F43CE-7B5F-4F93-BAA4-8C0ABDC134EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1A670F7E-010B-4804-B197-266D412223D9}
+	EndGlobalSection
+EndGlobal
