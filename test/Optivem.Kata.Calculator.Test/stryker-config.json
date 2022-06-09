@@ -1,0 +1,6 @@
+﻿{
+  "stryker-config": {
+    "solution": "../../Optivem.Kata.Calculator.sln",
+    "project": "Optivem.Kata.Calculator.Core"
+  }
+}
